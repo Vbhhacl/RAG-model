@@ -1,3 +1,4 @@
+arxiv
 langchain 
 langchain-openai
 langchain-mistralai
